@@ -261,3 +261,4 @@ Atrybuty zwracanych krotek, krotki muszą być posortowane wg wartości różnic
 // <member> <upvotes> <downvotes> <active>
 ```
 
+>>>>>>> d11ff2b7c8d78f81534b42fcac46d28786353874
